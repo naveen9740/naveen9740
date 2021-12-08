@@ -16,7 +16,7 @@
 
 ### Checkout My Projects
 
-[Portfolio](https://naveenkamath002.netlify.app/)
+[Portfolio](https://naveenkamathnk.netlify.app/)
 
 ### Recent Blogs
 
