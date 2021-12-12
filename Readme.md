@@ -10,7 +10,7 @@
 - 🌱 Polishing my Skills in NodeJs, ExpressJs and MongoDb.
 - 💬 Hit me up, for discussions regarding HTML, CSS, JavaScript and ReactJs.
 - 📫 Drop your query, or even simply a "HI 👋" on [naveen.kamath002@gmail.com](mailto:naveen.kamath002@gmail.com)
-- 📄 Want to hire me? Check out my [Resume]()
+- 📄 Want to hire me? Check out my [Resume](https://docs.google.com/document/d/1l8iKYPOm8wG7-M_CY6RGSHJermRj0L0OtIgAy3yKX-0/edit?usp=sharing)
 
 ---
 
