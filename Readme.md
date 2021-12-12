@@ -16,12 +16,13 @@
 
 ### Checkout My Projects
 
-[Portfolio](https://naveenkamathnk.netlify.app/)
+[Portfolio](https://naveenkamath.netlify.app/)
 
 ### Recent Blogs
 
-- Sample Blog | [Blog1](link)
-- Sample Blog | [Blog2](link)
+- What are Closures in JS? | [Blog1](https://dev.to/naveenkamath/what-are-closures-in-javascript-4gf3)
+- How JS code is Executed? | [Blog2](https://dev.to/naveenkamath/how-javascript-code-is-executed--iif)
+- [My All Blogs](https://dev.to/naveenkamath)
 
 ### Connect With Me Via
 
