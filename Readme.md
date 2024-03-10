@@ -1,6 +1,6 @@
 ## <p align="center"> Hi 👋, I'm Naveen Kamath,
 
-### <p align="center"> A Intermediate Web Developer and An Expert Learner.
+### <p align="center"> A Experienced FullStack Developer and An Expert Learner.
 
 ---
 
